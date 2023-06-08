@@ -1,5 +1,6 @@
- TypeScript, Redux Toolkit, RTKQuery, Tailwind
  *end
+
+TypeScript, Redux Toolkit, RTKQuery, Tailwind
 
 # Getting Started with Create React App
 
